@@ -1,0 +1,1 @@
+The brutal version is the simpliest. The sets version uses sets to avoid making illegal moves.
