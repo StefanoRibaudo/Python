@@ -1,4 +1,4 @@
-## Send an email challenge
+## Simulate dice roll challenge
 
 ### Desciption
 The aim of this challenge is to write a function that determines the probabilty of all possible outcomes when rolling dice. (When multiple dice are present, the total outcome is the sum of each dice)
