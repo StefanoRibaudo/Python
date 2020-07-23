@@ -7,7 +7,9 @@ The aim of this challenge is to write a function that determines the probabilty 
 I've used a Monte Carlo method to simulate 1 Million rolles of the specified dice. The probability is computed against the total number of simulations.
 
 ### Usage
-sim_dice(dice_list) accepts a list of numbers as arguments. The list should include how many sides each dice has. The probabilities are printed in console.\ Example: sim_dice([6,6]) prints:\ 2   2.80 %\
+sim_dice(dice_list) accepts a list of numbers as arguments. The list should include how many sides each dice has. The probabilities are printed in console.\
+Example: sim_dice([6,6]) prints:\
+2   2.80 %\
 3   5.54 %\
 4   8.32 %\
 5   11.07 %\
