@@ -1,4 +1,4 @@
-## Save dictioanry challenge
+## Save dictionary challenge
 
 ### Desciption
 The aim of this challenge is to write a function to save a dictionary and one to load it.
